@@ -1,0 +1,9 @@
+{
+  "name": "RoR2Omniscience",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/IAmZeCarrot/ror2-omniscience",
+  "description": "Offline omniscience overlay mod with target detection, aim-assist, and debug info display",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.1905"
+  ]
+}
